@@ -20,9 +20,6 @@
     <string name="video_apps_summary">所有的影音应用将切换到60Hz来节约能耗</string>
     <string name="force_60hz_apps">60Hz 应用</string>
     <string name="force_60hz_apps_summary">在这个列表内的应用将使用60Hz，否则使用您设置的刷新率（游戏和影音应用除外）</string>
-
-    <string name="confirm">确定</string>
-    <string name="cancel">取消</string>
     <string name="map_range_header">Range - ID 映射设置</string>
     <string name="enable_vibrator_remap_title">启用普通震动重映射</string>
     <string name="may_need_reboot">此设置可能需要重启才能生效</string>
@@ -93,4 +90,19 @@
     <string name="music_notification_header">音乐通知</string>
     <string name="use_chen_volume_animation_title">动起来吧!音量调节栏!</string>
     <string name="use_chen_volume_animation_summary">享受由爱与琛驱动的音量调节栏动画吧(可能只支持线性马达的机型，不要问为什么，问就是懒)</string>
+
+    <string name="reboot_system">重启系统</string>
+    <string name="reboot_system_summary">确定要重启系统么？</string>
+    <string name="restart_scope">重启作用域</string>
+    <string name="cancel">取消</string>
+    <string name="backup">备份模块设置</string>
+    <string name="recovery">恢复模块设置</string>
+    <string name="confirm">确定</string>
+    <string name="need_reboot">本页功能开启以后需要重启手机</string>
+    <string name="tips">提示</string>
+    <string name="not_support">模块未激活，请激活模块后重试</string>
+    <string name="hide_desktop_icon">隐藏桌面图标</string>
+    <string name="restart_scope_summary">确定要重启全部作用域么？</string>
+    <string name="restart_scope_finished">作用域重启完成</string>
+    <string name="xposed_desc">Make MIUI Great Again! @ Art_Chen</string>
 </resources>
