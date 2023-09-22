@@ -1,6 +1,5 @@
 package moe.chenxy.miuiextra.hooker.entity
 
-import android.R.attr.classLoader
 import android.animation.ValueAnimator
 import android.content.Context
 import android.content.pm.PackageManager

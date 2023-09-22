@@ -1,6 +1,5 @@
 package moe.chenxy.miuiextra.hooker.entity
 
-import android.util.Log
 import com.highcapable.yukihookapi.hook.entity.YukiBaseHooker
 import com.highcapable.yukihookapi.hook.type.android.ViewClass
 import com.highcapable.yukihookapi.hook.type.java.FloatType

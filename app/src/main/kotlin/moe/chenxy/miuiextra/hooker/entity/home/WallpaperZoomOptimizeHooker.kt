@@ -1,6 +1,5 @@
 package moe.chenxy.miuiextra.hooker.entity.home
 
-import android.R.attr.classLoader
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
